@@ -10,5 +10,8 @@ header{
 
 section{
   margin-bottom: 60px;
-  background-color: red;
+}
+
+footer{
+  margin-bottom: 50px;
 }
