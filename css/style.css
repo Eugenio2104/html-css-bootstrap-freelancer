@@ -14,12 +14,18 @@ body{
 }
 
 header{
-  height: 80px;
   background-color: #2C3E50;
 }
 
 .navbar-toggler.sc-hamburger{
   border: none;
+}
+
+.navbar-brand {
+  color: white;
+}
+.navbar{
+  --bs-navbar-color:white;
 }
 
 .jumbotron{
