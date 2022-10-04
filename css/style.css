@@ -124,3 +124,10 @@ height: 500px;
   border-left: 0;
   border-right: 0;
 }
+
+
+.btn-contact{
+  border: 1px solid #1ABC9C;
+  background-color: #1ABC9C;
+  color: white;
+}
