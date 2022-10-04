@@ -15,6 +15,7 @@ body{
 /*header*/
 header{
   background-color: #2C3E50;
+  height: 90px;
 }
 
 .navbar-toggler.sc-hamburger{
@@ -29,7 +30,7 @@ header{
 }
 /*jumbotron*/
 .jumbotron{
-  height:490px;
+  height:520px;
   background-color: #31bc9c;
 }
 
@@ -37,6 +38,30 @@ img, svg {
   vertical-align: middle;
   width: 230px;
   height: 250px;
+}
+
+.jumbotron h2 {
+  font-size: 4rem!important;
+}
+
+.linea:before{
+  content: "";
+  width: 130px;
+  height: 3px;
+  border-radius: 2px;
+  display: inline-block;
+  background-color: white;
+  margin-bottom: 4px;
+}
+
+.linea:after{
+  content: "";
+  width: 130px;
+  height: 3px;
+  border-radius: 2px;
+  display: inline-block;
+  background-color: white;
+  margin-bottom: 4px;
 }
 
 
