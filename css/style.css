@@ -131,3 +131,20 @@ height: 500px;
   background-color: #1ABC9C;
   color: white;
 }
+
+
+
+/*footer*/
+ 
+.footer-top{
+  background-color: #3A546D;
+}
+
+.footer-bottom{
+  height: 60px;
+ background-color: #2C3E50;
+}
+
+.col{
+  margin-top: 60px;
+}
